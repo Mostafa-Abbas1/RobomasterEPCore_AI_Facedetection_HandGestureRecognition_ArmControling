@@ -1,7 +1,7 @@
 # Robot connection configuration
 
 # Connection type: "ap" (direct WiFi), "sta" (router mode), "rndis" (USB)
-CONN_TYPE = "ap"
+CONN_TYPE = "sta"
 
 # Robot IP address (default for AP mode)
 ROBOT_IP = "192.168.2.1"
