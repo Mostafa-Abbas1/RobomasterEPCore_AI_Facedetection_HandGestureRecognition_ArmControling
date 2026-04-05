@@ -1,4 +1,6 @@
 robomaster>=0.1.1
 opencv-python>=4.2
 numpy>=1.18
-mediapipe>=0.10
+mediapipe==0.10.9
+ultralytics>=8.0
+deep-sort-realtime>=1.3
