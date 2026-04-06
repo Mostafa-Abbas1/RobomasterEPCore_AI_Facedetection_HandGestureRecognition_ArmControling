@@ -22,3 +22,6 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Model weights (downloaded automatically)
+*.pt
